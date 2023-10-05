@@ -5,13 +5,13 @@ Bu uygulamada görevlerinizi ekleyebilir, takip edebilir ve güncelleyebilirsini
 
 
 <p float="left">
-  <img src="ss/ss_1.jpeg" width="200" />
-  <img src="ss/ss_2.jpeg" width="200" />
-  <img src="ss/ss_3.jpeg" width="200" />
-  <img src="ss/ss_4.jpeg" width="200" />
-  <img src="ss/ss_5.jpeg" width="200" />
-  <img src="ss/ss_6.jpeg" width="200" />
-  <img src="ss/ss_7.jpeg" width="200" />
+  <img src="ss/ss1.jpeg" width="200" />
+  <img src="ss/ss2.jpeg" width="200" />
+  <img src="ss/ss3.jpeg" width="200" />
+  <img src="ss/ss4.jpeg" width="200" />
+  <img src="ss/ss5.jpeg" width="200" />
+  <img src="ss/ss6.jpeg" width="200" />
+  <img src="ss/ss7.jpeg" width="200" />
 
 </p>
 
