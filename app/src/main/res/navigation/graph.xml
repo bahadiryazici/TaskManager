@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/graph"
+    app:startDestination="@id/mainFragment2">
+
+    <fragment
+        android:id="@+id/mainFragment2"
+        android:name="com.example.taskmanager.view.ui.fragments.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_ma" >
+        <action
+            android:id="@+id/action_mainFragment2_to_editFragment2"
+            app:destination="@id/editFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/createFragment2"
+        android:name="com.example.taskmanager.view.ui.fragments.CreateFragment"
+        android:label="fragment_create"
+        tools:layout="@layout/fragment_crea" />
+    <fragment
+        android:id="@+id/editFragment2"
+        android:name="com.example.taskmanager.view.ui.fragments.EditFragment"
+        android:label="fragment_edit"
+        tools:layout="@layout/fragment_edi" >
+        <argument
+            android:name="id"
+            app:argType="integer" />
+    </fragment>
+    <fragment
+        android:id="@+id/tasksByCategoryFragment2"
+        android:name="com.example.taskmanager.view.ui.fragments.TasksByCategoryFragment"
+        android:label="fragment_tasks_by_category"
+        tools:layout="@layout/fragment_tasks_by_categor" />
+</navigation>

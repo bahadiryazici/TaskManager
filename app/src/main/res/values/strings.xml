@@ -1,3 +1,133 @@
 <resources>
     <string name="app_name">Task Manager</string>
+    <string name="create">Create</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="date">Date</string>
+    <string name="task_name">Task Name</string>
+    <string name="new_project_meeting">New Project Meeting</string>
+    <string name="datemain">date</string>
+    <string name="participants">Participants</string>
+    <string name="description">Description</string>
+    <string name="descriptionmain">There are many variations.</string>
+    <string name="create_new_task">Create New Task</string>
+    <string name="contentdescription">TODO</string>
+    <string name="datebuttontext">Jan 04 2023</string>
+    <string name="categorySpinner">Design</string>
+    <string name="category">Category</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="task_priority">Task Priority</string>
+    <string name="datetext">13 June 2021</string>
+    <string name="personCountText">3 Persons</string>
+    <string name="timeText">11:00 am - 14:00 pm</string>
+    <string name="tasks">Tasks</string>
+    <string name="_14_00_pm_16_00_pm">14:00 pm - 16:00 pm</string>
+    <string name="meeting_with_engineers">Meeting with Engineers</string>
+    <string name="wednesday_17_june">Wednesday - 17 June</string>
+    <string name="time">Time</string>
+    <string name="descriptionTextEditTask">If you are going to use a passage of Lorem Ipsum, you need to be sure therels necessary, making this the first true generator on the Internet</string>
+    <string name="editTaskCreate">Create</string>
+    <string name="all_underlined_text"><u>All</u></string>
+
+    <string-array name="time">
+
+        <item>00:00 am</item>
+        <item>00:30 am</item>
+        <item>01:00 am</item>
+        <item>01:30 am</item>
+        <item>02:00 am</item>
+        <item>02:30 am</item>
+        <item>03:00 am</item>
+        <item>03:30 am</item>
+        <item>04:00 am</item>
+        <item>04:30 am</item>
+        <item>05:00 am</item>
+        <item>05:30 am</item>
+        <item>06:00 am</item>
+        <item>06:30 am</item>
+        <item>07:00 am</item>
+        <item>07:30 am</item>
+        <item>08:00 am</item>
+        <item>08:30 am</item>
+        <item>09:00 am</item>
+        <item>09:30 am</item>
+        <item>10:00 am</item>
+        <item>10:30 am</item>
+        <item>11:00 am</item>
+        <item>11:30 am</item>
+        <item>12:00 pm</item>
+        <item>12:30 pm</item>
+        <item>01:00 pm</item>
+        <item>01:30 pm</item>
+        <item>02:00 pm</item>
+        <item>02:30 pm</item>
+        <item>03:00 pm</item>
+        <item>03:30 pm</item>
+        <item>04:00 pm</item>
+        <item>04:30 pm</item>
+        <item>05:00 pm</item>
+        <item>05:30 pm</item>
+        <item>06:00 pm</item>
+        <item>06:30 pm</item>
+        <item>07:00 pm</item>
+        <item>07:30 pm</item>
+        <item>08:00 pm</item>
+        <item>08:30 pm</item>
+        <item>09:00 pm</item>
+        <item>09:30 pm</item>
+        <item>10:00 pm</item>
+        <item>10:30 pm</item>
+        <item>11:00 pm</item>
+        <item>11:30 pm</item>
+
+
+    </string-array>
+
+    <string-array name="category">
+        <item>Design</item>
+        <item>Document</item>
+        <item>Marketing</item>
+    </string-array>
+
+    <string-array name="priority">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="statement">
+        <item>New</item>
+        <item>On Going</item>
+        <item>Completed</item>
+        <item>Deleted</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="priority_level">Priority Level</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="add_category">Add Category </string>
+    <string name="your_category">Your category</string>
+    <string name="good_morning">Good Morning,</string>
+    <string name="urgent">Urgent</string>
+    <string name="new_ui_design">New UI Design</string>
+    <string name="duis_tincidunt_ut_massa_quis_dig">Duis tincidunt ut massa quis dig.</string>
+    <string name="_0">%0</string>
+    <string name="marketing">Marketing</string>
+    <string name="business_development">Business Development</string>
+    <string name="_13_tasks">13 Tasks</string>
+    <string name="_23">%23</string>
+    <string name="redesign_my_website">Redesign My Website</string>
+    <string name="contrary_to_popular_belief_duis_tincidunt_is_simply">Contrary to popular belief, duis tincidunt is simply</string>
+    <string name="design">Design</string>
+    <string name="statement">Statement</string>
+    <string name="update">Update</string>
+    <string name="if_you_are_going_to_use_a_passage_of_lorem_ipsum_you_need_to_be_sure_there_isn_t_anything_embarras_hidden_in_the_middle_of_text_all_the_lorem_ipsum_generators_on_the_internet_tend_to_repeat_predefin_chunks_as_necessary_making_this_the_first_true_generator_on_the_internet">If you are going to use a passage of Lorem Ipsum, you need to be sure there isn\'t anything embarras hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefin chunks as necessary, making this the first true generator on the Internet.</string>
+    <string name="your_description_here">Your Description Here.</string>
+    <string name="home">Home</string>
+    <string name="create2">Create</string>
+    <string name="tasks2">Tasks</string>
+
 </resources>
